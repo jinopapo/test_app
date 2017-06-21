@@ -12,6 +12,7 @@
 /db/*.sqlite3-journal
 hige
 hgoe
+hoge
 
 # Ignore all logfiles and tempfiles.
 /log/*
