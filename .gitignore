@@ -16,6 +16,7 @@ hoge
 huge
 hhhh
 aaaa
+aaa
 # Ignore all logfiles and tempfiles.
 /log/*
 !/log/.keep
